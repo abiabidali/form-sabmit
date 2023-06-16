@@ -1,1 +1,1 @@
-#form to google sheets submit
+*form to google sheets submit
